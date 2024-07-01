@@ -1,0 +1,287 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fc7a8d3268d892fb24f4ec1a71c72051\transformed\material-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\a3c2189337f4d1c7b5093533449e4d9e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\3f452f2a6a35fca5ff43780d7f63b2d5\transformed\appcompat-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidmads.library.qrgenearator:QRGenearator:1.0.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0ea85ee5588c99137291448ef1d37084\transformed\jetified-QRGenearator-1.0.4\AndroidManifest.xml:2:1-16:12
+MERGED from [eu.livotov.labs.android:CAMView:2.0.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\ac2381398389cb79707ae6b8b5ac4a8e\transformed\jetified-CAMView-2.0.1\AndroidManifest.xml:2:1-12:12
+MERGED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:17:1-56:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\8e22d5d912444fc638c63bfbe77f8a79\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\846b04ceae15aa586eff79f5ddab485b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\4dc3197985c51bf586b0acc6a38aae73\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\59af9767938e9b33b59b2225fb5efbea\transformed\jetified-activity-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\7468a74bf0df0496fea563e8f4047dfd\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\be0428923cd69fda67312d75fe7a9e6f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\3a1b5e9dab358c49201b208de549184c\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\92ba7f4b8f83e0d9e646fe0ef42373c1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\2d8d9caed21a65c8dc18b32d075a7e29\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\39d9ef9957d60984b27824832cb2f83f\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fcc72929abf7ab70d5bd488056277013\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\50cb2606853dba48988d7895609596c9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\19d023f3a60eea4cf5eb1c532bab591d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\29bc80d82d8a3a56fea53ee9c152ce36\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fb5b2ecf6e69dc742d13a10dc2b8ccb4\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\8e0bb89878b3c226dc935b754621b3e2\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0242e5575dfac4ce641036293dd99d5a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\834f64c037d3eb1d80c9120d616e8ddf\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\15d44bd1827f779942301586f250f50c\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\f6f9a104f08951f0fdf0385d58a46c68\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\69e00d06e176c6a9f5940c4d0c448c93\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0871b4dfa761019cd248ac6b7106a704\transformed\core-1.5.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\50cee7bea3b7216f9454a162ed58ac2e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0313185b65b297256271d28300902eba\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fa2380f75d2c5c80552f48bf629e2b79\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\4dde1c400f39f8b811de51a7bc526019\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0879dd0db35a493ce96a65fe54ab4aec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\2b1e75a7ff587f55cb65f5624a121194\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\06899ad34059219eddc5e1f866c33acb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\3df8d613639375da4a3e5a2c86a14316\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\7663b5da21f2a77ac3feae1b7aa6ffe1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\9802c4da85717c2691a56bcb4243512f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e184ca6dc9bd5da4917e6d1c8bf92ead\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\8b812f897cbfdb95ce6a244d65e73375\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\9bb3b79649cdbea121acba997f10ea09\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\ff0424837bf49e40fcf9637eab532cef\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e1691198c5fb7a7a37e58005d2111ae3\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\7d0c2a6f271ca49b9244f2f1648b95c4\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:5:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:22:5-65
+MERGED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:22:5-65
+	android:name
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:5:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:6:22-63
+application
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:8:5-33:19
+INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:8:5-33:19
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fc7a8d3268d892fb24f4ec1a71c72051\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fc7a8d3268d892fb24f4ec1a71c72051\transformed\material-1.4.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\a3c2189337f4d1c7b5093533449e4d9e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\a3c2189337f4d1c7b5093533449e4d9e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:9:5-20
+MERGED from [androidmads.library.qrgenearator:QRGenearator:1.0.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0ea85ee5588c99137291448ef1d37084\transformed\jetified-QRGenearator-1.0.4\AndroidManifest.xml:13:5-14:19
+MERGED from [androidmads.library.qrgenearator:QRGenearator:1.0.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0ea85ee5588c99137291448ef1d37084\transformed\jetified-QRGenearator-1.0.4\AndroidManifest.xml:13:5-14:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:46:5-54:19
+MERGED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:46:5-54:19
+MERGED from [androidx.core:core:1.5.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0871b4dfa761019cd248ac6b7106a704\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0871b4dfa761019cd248ac6b7106a704\transformed\core-1.5.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\06899ad34059219eddc5e1f866c33acb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\06899ad34059219eddc5e1f866c33acb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0871b4dfa761019cd248ac6b7106a704\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:12:9-45
+	android:icon
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:10:9-40
+	android:allowBackup
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:14:9-60
+activity#com.example.qr_code_generatorscanner.ScanQRCodeActivity
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:15:9-17:39
+	android:exported
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:17:13-36
+	android:name
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:16:13-47
+activity#com.example.qr_code_generatorscanner.GenerateQRCodeActivity
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:18:9-20:39
+	android:exported
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:20:13-36
+	android:name
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:19:13-51
+activity#com.example.qr_code_generatorscanner.HomeActivity
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:21:9-23:39
+	android:exported
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:22:13-41
+activity#com.example.qr_code_generatorscanner.MainActivity
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:exported
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:25:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fc7a8d3268d892fb24f4ec1a71c72051\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fc7a8d3268d892fb24f4ec1a71c72051\transformed\material-1.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\a3c2189337f4d1c7b5093533449e4d9e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\a3c2189337f4d1c7b5093533449e4d9e\transformed\constraintlayout-2.1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\3f452f2a6a35fca5ff43780d7f63b2d5\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\3f452f2a6a35fca5ff43780d7f63b2d5\transformed\appcompat-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidmads.library.qrgenearator:QRGenearator:1.0.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0ea85ee5588c99137291448ef1d37084\transformed\jetified-QRGenearator-1.0.4\AndroidManifest.xml:7:5-9:41
+MERGED from [androidmads.library.qrgenearator:QRGenearator:1.0.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0ea85ee5588c99137291448ef1d37084\transformed\jetified-QRGenearator-1.0.4\AndroidManifest.xml:7:5-9:41
+MERGED from [eu.livotov.labs.android:CAMView:2.0.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\ac2381398389cb79707ae6b8b5ac4a8e\transformed\jetified-CAMView-2.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [eu.livotov.labs.android:CAMView:2.0.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\ac2381398389cb79707ae6b8b5ac4a8e\transformed\jetified-CAMView-2.0.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:20:5-44
+MERGED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\8e22d5d912444fc638c63bfbe77f8a79\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\8e22d5d912444fc638c63bfbe77f8a79\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\846b04ceae15aa586eff79f5ddab485b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\846b04ceae15aa586eff79f5ddab485b\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\4dc3197985c51bf586b0acc6a38aae73\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\4dc3197985c51bf586b0acc6a38aae73\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\59af9767938e9b33b59b2225fb5efbea\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\59af9767938e9b33b59b2225fb5efbea\transformed\jetified-activity-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\7468a74bf0df0496fea563e8f4047dfd\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\7468a74bf0df0496fea563e8f4047dfd\transformed\jetified-appcompat-resources-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\be0428923cd69fda67312d75fe7a9e6f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\be0428923cd69fda67312d75fe7a9e6f\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\3a1b5e9dab358c49201b208de549184c\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\3a1b5e9dab358c49201b208de549184c\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\92ba7f4b8f83e0d9e646fe0ef42373c1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\92ba7f4b8f83e0d9e646fe0ef42373c1\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\2d8d9caed21a65c8dc18b32d075a7e29\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\2d8d9caed21a65c8dc18b32d075a7e29\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\39d9ef9957d60984b27824832cb2f83f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\39d9ef9957d60984b27824832cb2f83f\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fcc72929abf7ab70d5bd488056277013\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fcc72929abf7ab70d5bd488056277013\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\50cb2606853dba48988d7895609596c9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\50cb2606853dba48988d7895609596c9\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\19d023f3a60eea4cf5eb1c532bab591d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\19d023f3a60eea4cf5eb1c532bab591d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\29bc80d82d8a3a56fea53ee9c152ce36\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\29bc80d82d8a3a56fea53ee9c152ce36\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fb5b2ecf6e69dc742d13a10dc2b8ccb4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fb5b2ecf6e69dc742d13a10dc2b8ccb4\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\8e0bb89878b3c226dc935b754621b3e2\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\8e0bb89878b3c226dc935b754621b3e2\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0242e5575dfac4ce641036293dd99d5a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0242e5575dfac4ce641036293dd99d5a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\834f64c037d3eb1d80c9120d616e8ddf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\834f64c037d3eb1d80c9120d616e8ddf\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\15d44bd1827f779942301586f250f50c\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\15d44bd1827f779942301586f250f50c\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\f6f9a104f08951f0fdf0385d58a46c68\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\f6f9a104f08951f0fdf0385d58a46c68\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\69e00d06e176c6a9f5940c4d0c448c93\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\69e00d06e176c6a9f5940c4d0c448c93\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0871b4dfa761019cd248ac6b7106a704\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0871b4dfa761019cd248ac6b7106a704\transformed\core-1.5.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\50cee7bea3b7216f9454a162ed58ac2e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\50cee7bea3b7216f9454a162ed58ac2e\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0313185b65b297256271d28300902eba\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0313185b65b297256271d28300902eba\transformed\jetified-lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fa2380f75d2c5c80552f48bf629e2b79\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\fa2380f75d2c5c80552f48bf629e2b79\transformed\jetified-savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\4dde1c400f39f8b811de51a7bc526019\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\4dde1c400f39f8b811de51a7bc526019\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0879dd0db35a493ce96a65fe54ab4aec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0879dd0db35a493ce96a65fe54ab4aec\transformed\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\2b1e75a7ff587f55cb65f5624a121194\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\2b1e75a7ff587f55cb65f5624a121194\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\06899ad34059219eddc5e1f866c33acb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\06899ad34059219eddc5e1f866c33acb\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\3df8d613639375da4a3e5a2c86a14316\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\3df8d613639375da4a3e5a2c86a14316\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\7663b5da21f2a77ac3feae1b7aa6ffe1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\7663b5da21f2a77ac3feae1b7aa6ffe1\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\9802c4da85717c2691a56bcb4243512f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\9802c4da85717c2691a56bcb4243512f\transformed\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e184ca6dc9bd5da4917e6d1c8bf92ead\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e184ca6dc9bd5da4917e6d1c8bf92ead\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\8b812f897cbfdb95ce6a244d65e73375\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\8b812f897cbfdb95ce6a244d65e73375\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\9bb3b79649cdbea121acba997f10ea09\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\9bb3b79649cdbea121acba997f10ea09\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\ff0424837bf49e40fcf9637eab532cef\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\ff0424837bf49e40fcf9637eab532cef\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e1691198c5fb7a7a37e58005d2111ae3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e1691198c5fb7a7a37e58005d2111ae3\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\7d0c2a6f271ca49b9244f2f1648b95c4\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\7d0c2a6f271ca49b9244f2f1648b95c4\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [androidmads.library.qrgenearator:QRGenearator:1.0.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0ea85ee5588c99137291448ef1d37084\transformed\jetified-QRGenearator-1.0.4\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from [androidmads.library.qrgenearator:QRGenearator:1.0.4] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\0ea85ee5588c99137291448ef1d37084\transformed\jetified-QRGenearator-1.0.4\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from C:\Users\lenovo\QR-Code-Scanner-Generator\app\src\main\AndroidManifest.xml:2:1-35:12 reason: androidmads.library.qrgenearator requested WRITE_EXTERNAL_STORAGE
+uses-feature#android.hardware.camera
+ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:26:9-47
+uses-feature#android.hardware.camera.front
+ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:29:9-53
+uses-feature#android.hardware.camera.autofocus
+ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:33:5-35:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:35:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:34:9-57
+uses-feature#android.hardware.camera.flash
+ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:36:5-38:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:38:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:37:9-53
+uses-feature#android.hardware.screen.landscape
+ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:39:5-41:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:41:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:40:9-57
+uses-feature#android.hardware.wifi
+ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:42:5-44:36
+	android:required
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:44:9-33
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:43:9-45
+activity#com.journeyapps.barcodescanner.CaptureActivity
+ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:47:9-53:63
+	android:screenOrientation
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:50:13-56
+	android:clearTaskOnLaunch
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:49:13-45
+	android:stateNotNeeded
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:51:13-42
+	android:windowSoftInputMode
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:53:13-60
+	android:theme
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from [com.journeyapps:zxing-android-embedded:4.2.0] C:\Users\lenovo\AndroidStudioProjects\QRCodeGenerator\caches\transforms-4\e44cc90159e129e5257308947e1b7821\transformed\jetified-zxing-android-embedded-4.2.0\AndroidManifest.xml:48:13-74
